@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sonype [Mackenson PETIT]
 - 👀 I’m interested in IT Infrastructure such as Cloud or on premises
-- 🌱 I’m currently learning ... AWS | GCP | Azure
-- 💞️ I’m looking to collaborate on IT area like Technical support | Infraestructure 
+- 🌱 I’m currently learning ... DevOps Engineer
+- 💞️ I’m looking to collaborate on IT Area | Technical Support | Infraestructure 
 - 📫 How to reach me ... [sonype](https://www.linkedin.com/in/sonype/)
 - 😄 Pronouns: ... Sony 
 - ⚡ Fun fact: ... Chess | Basketball | Badminton
