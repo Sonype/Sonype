@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IT area like Technical support | Infraestructure 
 - 📫 How to reach me ... [sonype](https://www.linkedin.com/in/sonype/)
 - 😄 Pronouns: ... Sony 
-- ⚡ Fun fact: ... Chess | Basketball | Soccer | Badminton
+- ⚡ Fun fact: ... Chess | Basketball | Badminton
 
 <!---
 Sonype/Sonype is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
