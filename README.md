@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... AWS | GCP | Azure
 - 💞️ I’m looking to collaborate on IT area like Technical support | Infraestructure 
 - 📫 How to reach me ... [sonype](https://www.linkedin.com/in/sonype/)
-- 😄 Pronouns: ... Mr. PETIT
+- 😄 Pronouns: ... Sony 
 - ⚡ Fun fact: ... Python | Robotics  
 
 <!---
